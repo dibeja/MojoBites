@@ -3,4 +3,18 @@ MojoBites - a MojoMotor free addon
 date: 06 september 2010
 author: Luca Di Bella
 company: Hands On Web
-version: 0.1
+
+
+Thanks to Loic Sharma and his awensome addon ShowMe, I've reused most of his code.
+
+// Installation 
+
+Upload the bites folder in your third_party folder and you're good to go
+
+// Tag usage
+
+{mojo:bites:content page="page_url_title" region="content_id"}
+
+
+version 0.1 - first commit
+version 0.2 - basic functionality
